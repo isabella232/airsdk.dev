@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://airsdk.dev/news</id>
+    <title>AIR SDK Blog</title>
+    <updated>2021-05-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://airsdk.dev/news"/>
+    <subtitle>AIR SDK Blog</subtitle>
+    <icon>https://airsdk.dev/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://airsdk.dev/news/welcome"/>
+        <updated>2021-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the new AIR SDK developer portal.]]></summary>
+    </entry>
+</feed>
